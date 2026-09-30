@@ -49,7 +49,7 @@ git clone https://github.com/SamuelLira01/Calculadora_while_python.git
 cd Calculadora_while_python
 3. Execute o programa
 python calculadora_while.py
-🎯 Objetivo
+  Objetivo
 
 Este projeto foi desenvolvido durante meus estudos de Python com o objetivo de praticar lógica de programação, estruturas condicionais e estruturas de repetição.
 
