@@ -1,8 +1,8 @@
-# 🧮 Calculadora While em Python
+#  Calculadora While em Python
 
 Calculadora desenvolvida em Python para praticar lógica de programação, estruturas de repetição, validação de entradas e operações matemáticas.
 
-## 📌 Sobre o projeto
+## Sobre o projeto
 
 O programa permite realizar operações matemáticas utilizando dois números informados pelo usuário.
 
@@ -16,7 +16,7 @@ A calculadora funciona continuamente através de um loop `while`, permitindo rea
 - `*` Multiplicação
 - `**` Potenciação
 
-## 🛠️ Conceitos utilizados
+##  Conceitos utilizados
 
 - Python
 - Variáveis
@@ -30,7 +30,7 @@ A calculadora funciona continuamente através de um loop `while`, permitindo rea
 - F-strings
 - `continue` e `break`
 
-## 🛡️ Validações
+##  Validações
 
 O programa possui algumas validações para evitar erros durante a execução:
 
@@ -39,7 +39,7 @@ O programa possui algumas validações para evitar erros durante a execução:
 - Impede a divisão por zero.
 - Permite que o usuário encerre o programa quando quiser.
 
-## ▶️ Como executar
+##  Como executar
 
 ### 1. Clone o repositório
 
