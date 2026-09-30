@@ -1,4 +1,4 @@
-#  Calculadora While em Python
+# Calculadora While em Python
 
 Calculadora desenvolvida em Python para praticar lógica de programação, estruturas de repetição, validação de entradas e operações matemáticas.
 
@@ -16,7 +16,7 @@ A calculadora funciona continuamente através de um loop `while`, permitindo rea
 - `*` Multiplicação
 - `**` Potenciação
 
-##  Conceitos utilizados
+## Conceitos utilizados
 
 - Python
 - Variáveis
@@ -30,7 +30,7 @@ A calculadora funciona continuamente através de um loop `while`, permitindo rea
 - F-strings
 - `continue` e `break`
 
-##  Validações
+## Validações
 
 O programa possui algumas validações para evitar erros durante a execução:
 
@@ -39,25 +39,22 @@ O programa possui algumas validações para evitar erros durante a execução:
 - Impede a divisão por zero.
 - Permite que o usuário encerre o programa quando quiser.
 
-##  Como executar
+## Como executar
 
-### 1. Clone o repositório
+1. Clone o repositório:
 
-```bash
-git clone https://github.com/SamuelLira01/Calculadora_while_python.git
-2. Entre na pasta do projeto
-cd Calculadora_while_python
-3. Execute o programa
-python calculadora_while.py
-  Objetivo
+`git clone https://github.com/SamuelLira01/Calculadora_while_python.git`
+
+2. Entre na pasta do projeto:
+
+`cd Calculadora_while_python`
+
+3. Execute o programa:
+
+`python calculadora_while.py`
+
+## Objetivo
 
 Este projeto foi desenvolvido durante meus estudos de Python com o objetivo de praticar lógica de programação, estruturas condicionais e estruturas de repetição.
 
 Estou utilizando projetos práticos para desenvolver minhas habilidades enquanto curso Ciência de Dados.
-
-
-**Importante:** esses ` ``` ` fazem parte do README e servem para o GitHub mostrar os comandos como código. Então **cole tudo**, inclusive eles.
-
-Depois é só clicar em **Commit changes**.
-
-Se você quiser evitar qualquer chance de errar, pode me m
